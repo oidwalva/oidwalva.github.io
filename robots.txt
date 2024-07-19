@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oidwalva.github.io/sitemap
+Sitemap: https://oidwalva.github.io/app/sitemap
+Sitemap: https://oidwalva.github.io/assets/sitemap
+Sitemap: https://oidwalva.github.io/css/sitemap
+Sitemap: https://oidwalva.github.io/includes/sitemap
+Sitemap: https://oidwalva.github.io/item/sitemap
+Sitemap: https://oidwalva.github.io/src/sitemap
